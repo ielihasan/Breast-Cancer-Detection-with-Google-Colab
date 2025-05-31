@@ -53,7 +53,7 @@ You can run the notebooks directly in Google Colab after change the dataset path
 
 ## 📑 Results Summary
 
-All performance metrics (accuracy, precision, recall, F1-score, ROC-AUC) are reported in `results_report.md`.
+All performance metrics (accuracy, precision, recall, F1-score, ROC-AUC) are reported in `results_report.docx`.
 
 ---
 
