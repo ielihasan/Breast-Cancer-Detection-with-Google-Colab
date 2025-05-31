@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙋‍♂️ Author
 
-- **Your Name**
+- **ALI HASSAN**
 - [GitHub](https://github.com/ielihasan)
 - [LinkedIn](https://linkedin.com/in/ielihasan)
 
