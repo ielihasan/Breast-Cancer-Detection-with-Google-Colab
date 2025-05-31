@@ -10,13 +10,14 @@ This project focuses on the early detection of breast cancer using several machi
 - Data cleaning and preprocessing
 - Exploratory data analysis (EDA)
 - Model training and evaluation
-- Classifiers used:
-  - Logistic Regression
-  - Decision Tree
-  - Random Forest
-  - K-Nearest Neighbors
-  - Support Vector Machine
-- ROC Curves, Confusion Matrices
+- Algorithm used:
+  - VGG16
+  - VGG16 w/ Single Dense Layer
+  - VGG16 w/ Inception Block and Single Dense layer
+  - GoogLeNet
+  - ResNet50
+  - Undersampling then VGG16 w/ Inception Block and Single Dense layer
+  - Oversampling then VGG16 w/ Inception Block and Single Dense layer
 - Results compared and summarized
 
 ---
